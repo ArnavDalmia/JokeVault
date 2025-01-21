@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JokeVault")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bdddfd072edee656c679d8c253a6494c6371faf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d154e0caf522171c8b4f02a28e66b32c98d7fd8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("JokeVault")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JokeVault")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

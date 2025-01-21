@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\jokes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\jokes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\jokes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\jokes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AF1D928-E546-48A0-9661-6625CAFDB077}|JokeVault.csproj|c:\\users\\beast\\onedrive\\documents\\github\\jokevault\\jokevault\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,11 +66,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-21T21:17:59.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Controllers\\JokesController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwJ8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:16:29.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:57:04.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:42:28.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "Models\\Joke.cs",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Models\\Joke.cs",
+              "RelativeToolTip": "Models\\Joke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:42:18.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:41:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:36:12.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T08:47:50.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T08:47:37.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T08:47:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T08:46:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:43:09.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Jokes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:43:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -30,20 +247,7 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T07:33:21.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\beast\\OneDrive\\Documents\\GitHub\\JokeVault\\JokeVault\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T07:33:16.092Z",
+              "WhenOpened": "2025-01-21T08:45:16.574Z",
               "EditorCaption": ""
             }
           ]
